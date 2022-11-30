@@ -1,0 +1,72 @@
+html{
+background: rgb(238,238,238);
+background: linear-gradient(90deg, rgb(0, 204, 204) 33%, rgb(242, 135, 115) 70%);
+}
+
+.raza{
+  display: block;
+  margin: 0 auto;
+  height: 90px;
+  align-items: center;
+  float: left;
+  width: auto;
+  position: absolute;
+  left: 28%;
+  top: 22%;
+}
+
+img.nombre{
+display: block;
+height: 300px;
+align-items: center;
+float: left;
+width: auto;
+position: absolute;
+left: 34%;
+top:35%;
+}
+
+img.informacion{
+display: block;
+height: 300px;
+align-items: center;
+float: left;
+width: auto;
+position: absolute;
+left: 28%;
+top:70%;
+}
+
+
+img.flecha1{
+display: block;
+height: 40px;
+align-items: center;
+float: left;
+width: auto;
+position: absolute;
+left: 30%;
+top:106%;
+}
+
+
+img.barra3{
+display: block;
+height: 56px;
+align-items: center;
+float: left;
+width: auto;
+position: absolute;
+left: 28%;
+top:105%;
+}
+
+
+
+body{
+  width: 800px;
+  margin: 0 auto;
+  background-color: white;
+  padding: 0 20px 850px 20px;
+  border: 5px solid white;
+}
